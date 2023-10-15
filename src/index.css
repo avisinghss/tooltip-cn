@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: rgb(246, 230, 210);
+  font-family: cursive;
+  color: chocolate;
+  height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.container{
+  margin-top: 25%;
+}
+
+button{
+  width: 150px;
+  height: 75px;
+  background-color: rgb(195, 237, 153);
+  color: blue;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-radius: 25px;
 }
